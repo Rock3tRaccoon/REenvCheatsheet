@@ -85,6 +85,8 @@ Here is a screenshot of my setup in VMware both hosts are setup the same. I used
 
 Now we switch over to our REMnux workstation
 We need to edit our inetsim config. Inetsim fakes all internet services on your machine. Allowing for DNS and HTTP requests to be somewhat completed. This enables us to sit in the middle and analyze any traffic we want, to reverse engineer the malware/ransomware we are doing analysis on. You name it, it fakes it.
+
+
 --------------------------------------------------------------------------------
 sudo vim /etc/inetsim/inetsim.conf
 --------------------------------------------------------------------------------
