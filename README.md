@@ -112,12 +112,19 @@ This is the home stretch. There are additional tools to be used on the windows m
 
 -----------------------------------------------------------------------------------------------------------------------------
 https://blog.didierstevens.com/my-software/
+
 https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite ---> Suite
+
 https://docs.microsoft.com/en-us/sysinternals/downloads/procmon ---> Single
+
 https://www.winitor.com/
+
 https://processhacker.sourceforge.io/
+
 https://sourceforge.net/projects/regshot/
+
 https://www.mcafee.com/en-us/consumer-corporate/mcafee-labs/free-tools/stinger.html
+
 
 ![image](https://user-images.githubusercontent.com/110573266/186064331-1e63c7c7-a41e-4a87-a9d8-f3c9c0c8a112.png)
 
