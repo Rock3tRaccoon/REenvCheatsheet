@@ -18,7 +18,7 @@ We will only be going over Local setup in this walkthrough as cloud instances va
 
 5: Remnux Ubuntu Addon
 
-#DISCLAIMER
+# DISCLAIMER
 
 I am not responsible for any damages done to a machine with carelessness or improper setup. Handling/Detonating malware is like Handling/Detonating a bomb. You want to be as far away from the source as possible. Implementing segmented parts of the network that only have two way communication between the Forensic machine and Victim machine is absolutely necessary. The goal isn't to bomb ourselves its to analyze the bombs impact.
 
