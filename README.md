@@ -130,7 +130,7 @@ https://www.mcafee.com/en-us/consumer-corporate/mcafee-labs/free-tools/stinger.h
 
 
 ------------------------------------------------------------------------------------------------------------------------------
-#END 
+# END 
 To finalize our setup. This is where the SNAPSHOT capabilities come into play. We need to take snapshots of each machine before use. So when the bomb is detonated we can reverse all effects done to both systems (if malware was dangerous enough). This ensures Host system security on top of REMnux Workstation Security, plus resets victim machine to our defaults for quick plug and play.
 
 For this to work flawlessly I reccomend safely shutting down both VMs and creating snapshots. Since creating snapshots differ from Hypervisor to Hypervisor I will only show a screenshots of both snapshots for my setup. These snapshots can also be used to move hosts with proper care of preserving data.
