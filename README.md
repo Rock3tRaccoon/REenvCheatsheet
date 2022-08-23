@@ -31,6 +31,7 @@ Next we upload the Ubuntu 20.04 ISO to the hypervisor platform
 
 From here startup Ubuntu and go through the normal setup process
 Once the desktop is loaded go to terminal, download Sift Repository. 
+
 ---------------------------------------------------------------------
 cd Downloads/
 
