@@ -1,6 +1,6 @@
 # MaLab
 Full Walkthrough on making a very practical malware analysis setup. Both could be done in Cloud Environment or Local.
-We will only be going over Local setup in this walkthrough as cloud instances vary from provider to provider. If planning to do this for a cloud envoirnment factor in editing LDAP-RBAC policies, Vnets to segment this dangerous part of the network
+We will only be going over Local setup in this walkthrough as cloud instances vary from provider to provider. If planning to do this for a cloud enviornment factor in editing LDAP-RBAC policies, Vnets to segment this dangerous part of the network
 
 # Requirements
 
