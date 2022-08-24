@@ -12,7 +12,7 @@ We will only be going over Local setup in this walkthrough as cloud instances va
 
 2: Ubuntu LTS 20.4 ISO (LTS 22 does not work)
 
-3: HyperVisor, VMWare, Virtual Box. (I use VMWare Workstation Pro, but something less fancy will do. Make sure to have SNAPSHOT capibilities)
+3: HyperVisor, VMWare, Virtual Box. (I use VMWare Workstation Pro, but something less fancy will do. Make sure to have SNAPSHOT capabilities)
 
 4: Sift Workstation
 
